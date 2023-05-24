@@ -5,4 +5,6 @@
 - `contributor-3`: VELAYOUDAM Vidjay Group A
 
 ## Fork urls
--'contributors-1": [quotes-su-a] (https://github.com/Sl0th22/quotes-su-A)
+- `contributors-1`: [quotes-su-a] (https://github.com/Sl0th22/quotes-su-A)
+-
+- `contributor-3`: [quotes-velayoudam-a] (https://github.com/vjvld/quotes-velayoudam-A)
