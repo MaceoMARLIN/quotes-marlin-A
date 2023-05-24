@@ -5,3 +5,7 @@
 - `contributor-3`: VELAYOUDAM Vidjay Group A
 
 ## Fork urls
+
+-
+-
+- `contributor-3`: [quotes-velayoudam-a] (https://github.com/vjvld/quotes-velayoudam-A)
