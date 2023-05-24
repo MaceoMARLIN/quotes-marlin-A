@@ -5,3 +5,5 @@
 - `contributor-3`: VELAYOUDAM Vidjay Group A
 
 ## Fork urls
+
+- `contributor-2`:[quotes-bucas-a] (https://github.com/VictorBucas/quotes-bucas-A)
